@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nagarro.Library.LibraryApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.033 s - in com.nagarro.Library.LibraryApplicationTests

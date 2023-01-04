@@ -1,0 +1,5 @@
+com\nagarro\Library\entity\Book.class
+com\nagarro\Library\repository\BookRepo.class
+com\nagarro\Library\controller\Bookcontroller.class
+com\nagarro\Library\service\BookService.class
+com\nagarro\Library\LibraryApplication.class
